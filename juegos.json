@@ -1,12 +1,18 @@
 {
-    "juegos": [
-      "Marvel's Spider-Man 2",
-      "The Legend of Zelda: Breath of the Wild",
-      "nba2k23",
-      "Rocket League",
-      "ea sport fc24",
-      "GTA 5"
-
-    ]
-  }
-  
+  "juegos": [
+    {
+      "nombre": "Call of Duty",
+      "precioSteam": 59.99,
+      "precioAmazon": 49.99,
+      "score": 8.5,
+      "tiempo": "20 horas"
+    },
+    {
+      "nombre": "FIFA 2023",
+      "precioSteam": 39.99,
+      "precioAmazon": 34.99,
+      "score": 9.0,
+      "tiempo": "15 horas"
+    },
+  ]
+}  
