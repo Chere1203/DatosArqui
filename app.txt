@@ -1,0 +1,2 @@
+1. busque como instalar git cli-cmd en windows
+2. 
